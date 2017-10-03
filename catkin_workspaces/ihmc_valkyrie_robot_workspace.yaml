@@ -11,3 +11,8 @@ repositories:
     type: git
     url: git@github.com:ihmcrobotics/ihmc_valkyrie_ros.git
     version: 0.8.2
+  ihmc_multisense_tools:
+    type: git
+    url: git@github.com:ihmcrobotics/ihmc_multisense_tools.git
+    version: 0.9.0
+
